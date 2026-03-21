@@ -1,6 +1,6 @@
 # Teknoy SafeSpace
 
-A secure student well-being community platform. Personal emails (Gmail, etc.) are welcome!
+A website for fellow teknoys
 
 ## Getting Started
 
